@@ -9,3 +9,7 @@ L'analyse se concentre sur les domaines clés suivants :
 - **Tendances de Marketing** : Identification des tendances du marché au Q4.
 - **Performance des Campagnes** : Évaluation des performances des campagnes marketing.
 - **Analyse des Segments de Clients** : Compréhension du comportement des différents segments de clients.
+  
+![Dashboard overview](p1.PNG)
+
+![Dashboard overview](p2.PNG)
